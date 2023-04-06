@@ -1,0 +1,14 @@
+{
+    "name": "pitan/pitan-bot",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pitan\\PitanBot\\": "src/"
+        }
+    },
+    "require": {
+        "team-reflex/discord-php": "^7.0",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}

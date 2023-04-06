@@ -1,0 +1,24 @@
+{
+  "en": {
+    "verify": "Verify",
+    "verification": "Verification",
+    "panel_text": "Please verify to give you role",
+    "panel_text2": "Please verify at the site below",
+    "notadmin_warming": "Only server administrators can run this command",
+    "placed": "Placed the verify panel",
+    "cooldown": "You cannot verify immediately after a failure. Please try again in %time% sec.",
+    "wiki_link": "About Turnstile Verify",
+    "site_text": "Please confirm that you are not a robot by clicking the box below."
+  },
+  "ja": {
+    "verify": "認証する",
+    "verification": "認証",
+    "panel_text": "ロールを付与するには認証をしてください",
+    "panel_text2": "下記のサイトで認証をしてください。",
+    "notadmin_warming": "このコマンドはサーバー管理者のみ実行できます。",
+    "placed": "認証パネルを設置しました",
+    "cooldown": "認証失敗後、すぐには認証できません。再度%time%秒後に認証してください。",
+    "wiki_link": "Turnstile Verifyについて",
+    "site_text": "ロボットによる操作ではないことを以下のボックスをクリックして認証してください。"
+  }
+}
